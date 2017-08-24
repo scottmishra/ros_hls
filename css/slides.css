@@ -120,6 +120,10 @@ body {
     letter-spacing: -1px;
 }
 
+.step img {
+    max-width: 100%;
+}
+
 
 .slide h1, 
 .slide h2, 
@@ -195,10 +199,6 @@ strike {
 
 small {
     font-size: 0.4em;
-}
-
-img {
-    width: 300px
 }
 
 .slide .right {
